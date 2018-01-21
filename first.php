@@ -1,3 +1,4 @@
 <?php
-	echo"Project Pertama"
+	echo"Project Pertama/n";
+	echo"Coba Lagi Push";
 ?>
